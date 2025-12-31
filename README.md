@@ -12,7 +12,7 @@ We propose **SemiHID** (Semantics-indicated Heartbeat Identification), a two-sta
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/hustselab511/SemiHID.git](https://github.com/hustselab511/SemiHID.git)
+    git clone [https://github.com/Laurellllt/SemiHID.git](https://github.com/Laurellllt/SemiHID.git)  
     ```
 
 2.  **Install dependencies:**
